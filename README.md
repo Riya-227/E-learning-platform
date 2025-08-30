@@ -1,9 +1,17 @@
 
+Company Name : CODTECH IT SOLUTIONS
 
+Name : Riya Shivaji Sangle
 
+Intern ID : CT08DH2221
 
+Domain : Front End Development
 
+Duration : 8 weeks
 
+Mentor : Neela Santosh
+
+Description : TASK 4 (E-learning platform UI)
 
 Working on this e-learning platform project has been a really valuable experience for me because it combined both front-end development skills and the use of version control systems like Git and GitHub. The process was not just about writing HTML, CSS, and JavaScript code, but also about learning how to organize files, create multiple pages, style them consistently, and finally host everything on GitHub so that the project is available online. I’ll break down the key activities and what I learned while completing this task.
 
@@ -18,3 +26,11 @@ Once the design and coding part was done, the real challenge was uploading all o
 When I saw the terminal output showing successful enumeration, compression, and upload of 68 objects with a total size of around 33 MB, it was a very satisfying moment. It confirmed that my project files were now safe on GitHub and could be accessed from anywhere. This step also gave me hands-on practice with Git commands and taught me how version control helps in managing projects efficiently.
 
 The final part of the task was checking the repository on GitHub and preparing it for deployment. By using GitHub Pages, the project can be hosted online and accessed through a live URL, making it more than just code files — it becomes a real, usable website.
+
+Output :
+
+<img width="2560" height="1664" alt="image" src="https://github.com/user-attachments/assets/42cb3a97-eeaf-4ec6-85a2-d294adc75632" />
+<img width="2560" height="1664" alt="image" src="https://github.com/user-attachments/assets/32196726-ba37-428e-97a8-bd5b6883d703" />
+
+
+
